@@ -34,11 +34,12 @@
 <!--- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" title="js" width="40" height="40"/>&nbsp; --->
 
 </div>
+<br>
 
 <div id="viz" 
-<br><b>Проект: Мигранты в Канаде</b>
+<br><b>Проект: Иммигранты в Канаде</b>
 
-<br><img width="611" alt="2022-12-05_022454" src="https://user-images.githubusercontent.com/79177126/210346464-e3f34812-25c9-45fb-b48f-cc694e794291.png">
+<br><img width="588" alt="2022-12-05_022454_cr" src="https://user-images.githubusercontent.com/79177126/210348680-04bb13ce-d8d9-4c67-a519-0aa0d59d57f1.png">
 
 </div>
 
