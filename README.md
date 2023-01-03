@@ -19,6 +19,7 @@
 
 </div>
 <br> 
+
 <div id="skills" 
      
 <br>**Языки и инструменты**
@@ -32,5 +33,12 @@
 
 <!--- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" title="js" width="40" height="40"/>&nbsp; --->
 
+</div>
+
+<div id="viz" 
+<br><b>Проект: Мигранты в Канаде</b>
+
+<br><img width="611" alt="2022-12-05_022454" src="https://user-images.githubusercontent.com/79177126/210346464-e3f34812-25c9-45fb-b48f-cc694e794291.png">
 
 </div>
+
