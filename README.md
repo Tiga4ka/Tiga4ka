@@ -19,12 +19,12 @@
 
 ### Языки и программы
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" /> title="js" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" title="js" width="40" height="40"/>&nbsp;
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> title="js" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="js" width="40" height="40"/>&nbsp;
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original-wordmark.svg" /> title="js" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original-wordmark.svg" title="js" width="40" height="40"/>&nbsp;
 
-<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original-wordmark.svg](https://336118.selcdn.ru/Gutsy-Culebra/products/Tableau-Public-Logo.svg)" /> title="js" width="40" height="40"/>&nbsp;
+<img src="https://336118.selcdn.ru/Gutsy-Culebra/products/Tableau-Public-Logo.svg" title="js" width="40" height="40"/>&nbsp;
 
 </div>
