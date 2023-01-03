@@ -35,11 +35,10 @@
 
 </div>
 <br>
-
+<br>
 <div id="viz" 
 <br><b>Проект: Иммигранты в Канаде</b>
 
-<br><img width="588" alt="2022-12-05_022454_cr" src="https://user-images.githubusercontent.com/79177126/210348680-04bb13ce-d8d9-4c67-a519-0aa0d59d57f1.png">
-
+<br><img width="578" alt="2022-12-05_022454_cr" src="https://user-images.githubusercontent.com/79177126/210349200-19b539b3-693b-478b-8ab8-9575bd9c9e98.png">
 </div>
 
