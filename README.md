@@ -7,7 +7,9 @@
   <a href="https://t.me/Tigassi">
 	  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"       alt="Telegram"/>
   </a></div>
-  
+ 
+<div id="aboutme" 
+ 
 ### Обо мне
 
 - 🌱 Изучаю **статистику и продвинутый Excel**
@@ -24,3 +26,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original-wordmark.svg" /> title="js" width="40" height="40"/>&nbsp;
 
 <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original-wordmark.svg](https://336118.selcdn.ru/Gutsy-Culebra/products/Tableau-Public-Logo.svg)" /> title="js" width="40" height="40"/>&nbsp;
+
+</div>
