@@ -5,22 +5,22 @@
 
 <div id="socials" align="center">
   <a href="https://t.me/Tigassi">
-	  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"         alt="Telegram"/>
+	  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"       alt="Telegram"/>
   </a></div>
   
+### Обо мне
+
+- 🌱 Изучаю **статистику и продвинутый Excel**
+- 📫 Свяжитесь со мной через [Telegram](https://t.me/tigassi), email
+- 🌍 Языки: русский, английский
 
 
-<!--
-**Tiga4ka/Tiga4ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Языки и программы
 
-Here are some ideas to get you started:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" /> title="js" width="40" height="40"/>&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> title="js" width="40" height="40"/>&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original-wordmark.svg" /> title="js" width="40" height="40"/>&nbsp;
+
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original-wordmark.svg](https://336118.selcdn.ru/Gutsy-Culebra/products/Tableau-Public-Logo.svg)" /> title="js" width="40" height="40"/>&nbsp;
