@@ -1,4 +1,14 @@
-### Hi there 👋
+<div id="header" align="center">
+	<h1>Привет, я Лена</h1>
+	<h3>Аналитик Данных из Москвы</h3>
+</div>
+
+<div id="socials" align="center">
+  <a href="https://t.me/Tigassi">
+	  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"         alt="Telegram"/>
+  </a></div>
+  
+
 
 <!--
 **Tiga4ka/Tiga4ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
