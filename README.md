@@ -16,7 +16,10 @@
 - 📫 Свяжитесь со мной через [Telegram](https://t.me/tigassi), email
 - 🌍 Языки: русский, английский
 
-
+</div>
+ 
+<div id="skills" 
+     
 ### Языки и программы
 
 <nobr><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" title="js" width="40" height="40"/></nobr>
