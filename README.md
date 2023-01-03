@@ -1,5 +1,5 @@
 <div id="header" align="center">
-	<h1>Привет, я Лена</h1>
+	<h1>Привет, меня зовут Елена</h1>
 	<h3>Аналитик Данных из Москвы</h3>
 </div>
 
@@ -7,27 +7,30 @@
   <a href="https://t.me/Tigassi">
 	  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"       alt="Telegram"/>
   </a></div>
+
  
 <div id="aboutme" 
  
-### Обо мне
-
+<br>**Обо мне**
 - 🌱 Изучаю **статистику и продвинутый Excel**
+- 👨‍💻 Работаю над различными проектами
 - 📫 Свяжитесь со мной через [Telegram](https://t.me/tigassi), email
 - 🌍 Языки: русский, английский
 
 </div>
- 
+<br> 
 <div id="skills" 
      
-### Языки и программы
+<br>**Языки и инструменты**
 
-<nobr><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" title="js" width="40" height="40"/></nobr>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" title="js" width="80" height="40"/>&nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="js" width="40" height="40"/>&nbsp;
+<img src="https://findicons.com/files/icons/2795/office_2013_hd/2000/excel.png" title="js" width="40" height="40"/>&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" title="js" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="js" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="js" width="40" height="40"/>&nbsp;
 
-<nobr><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="js" width="40" height="40"/></nobr>
+<!--- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" title="js" width="40" height="40"/>&nbsp; --->
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original-wordmark.svg" title="js" width="40" height="40"/>&nbsp;
-
-<img src="https://336118.selcdn.ru/Gutsy-Culebra/products/Tableau-Public-Logo.svg" title="js" width="40" height="40"/>&nbsp;
 
 </div>
