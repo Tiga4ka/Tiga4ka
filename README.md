@@ -34,8 +34,20 @@
 <!--- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" title="js" width="40" height="40"/>&nbsp; --->
 
 </div>
+
+<div id="aboutme" 
+ 
+<br>Связаться со мной можно через [Посмотрите мой последние проект: Поиск решений проблем изменения климата](https://t.me/tigassi)
+
+</div>
+
 <br>
+
+<div id="project"
+    Вот да [Посмотрите мой последние проект: Поиск решений проблем изменения климата](https://github.com/Tiga4ka/ClimateSolutions#readme/)
+</div>
 <br>
+
 <div id="viz" 
 <br><b>Проект: Иммигранты в Канаде</b>
 
