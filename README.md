@@ -37,15 +37,13 @@
 
 <div id="aboutme" 
  
-<br>Связаться со мной можно через [Посмотрите мой последние проект: Поиск решений проблем изменения климата](https://t.me/tigassi)
+<br><b>Посмотрите мой последние проект: [Поиск решений проблем изменения климата](https://github.com/Tiga4ka/ClimateSolutions#readme/) </b>
+![HealthcareProb](https://user-images.githubusercontent.com/79177126/212710154-13bfbb6e-4472-488c-9580-26d7b0848d86.png)
+
+
 
 </div>
 
-<br>
-
-<div id="project"
-    Вот да [Посмотрите мой последние проект: Поиск решений проблем изменения климата](https://github.com/Tiga4ka/ClimateSolutions#readme/)
-</div>
 <br>
 
 <div id="viz" 
