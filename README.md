@@ -37,7 +37,7 @@
 
 <div id="aboutme" 
  
-<br><b>Посмотрите мой последние проект: [Поиск решений проблем изменения климата](https://github.com/Tiga4ka/ClimateSolutions#readme/) </b>
+<br><h3><b>Посмотрите мой последние проект: [Поиск решений проблем изменения климата](https://github.com/Tiga4ka/ClimateSolutions#readme/) </b></h3>
 ![HealthcareProb](https://user-images.githubusercontent.com/79177126/212710154-13bfbb6e-4472-488c-9580-26d7b0848d86.png)
 
 
