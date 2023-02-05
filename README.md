@@ -27,6 +27,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" title="js" width="80" height="40"/>&nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="js" width="40" height="40"/>&nbsp;
 <img src="https://findicons.com/files/icons/2795/office_2013_hd/2000/excel.png" title="js" width="40" height="40"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/79177126/216817318-dcde5a05-d60e-4bf6-98a7-719b2a00b73c.png" width="40" height="40"/>&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" title="js" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="js" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="js" width="40" height="40"/>&nbsp;
