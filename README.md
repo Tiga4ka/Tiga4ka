@@ -35,6 +35,14 @@
 
 </div>
 
+<div id="Awards" 
+     
+<br>**Достижения**
+
+[<img src="https://user-images.githubusercontent.com/79177126/216816890-4f54a973-e898-4e4d-8f83-c08997540d8f.png">](https://www.credly.com/badges/424e9cce-b05c-44c2-a8bc-0ebe42053181/public_url)
+
+</div>
+
 <div id="aboutme" 
  
 <br><h3><b>Мой последний проект: [Поиск решений проблем изменения климата](https://github.com/Tiga4ka/ClimateSolutions#readme/) </b></h3>
